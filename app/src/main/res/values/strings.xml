@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Course Expært </string>
+    //pasta
+    <string name="pastaIngredients">HTML (HyperText Markup Language) adalah bahasa markah yang digunakan untuk membuat dan mengatur konten web. Ini adalah komponen dasar dari World Wide Web dan merupakan bahasa yang digunakan untuk mendefinisikan struktur dan elemen-elemen halaman web. Tapi, meskipun susunannya seperti coding, perlu diketahui bahwa HTML bukanlah bahasa pemrograman. HTML tidak dianggap sebagai bahasa pemrograman karena tidak bisa memberikan fungsi yang dinamis.</string>
+    <string name="pastaDesc">Cook your pasta until al dente
+\nSaute’ garlic in olive oil until fragrant
+\nAdd cream cheese, pasta cooking water, parmesan, and stir well
+\nDrain and add pasta to the skillet
+\nToss until well combined, adding some pasta water if needed</string>
+    //maggi
+    <string name="maggiIngredients">CSS (Cascading Style Sheets) adalah bahasa yang digunakan untuk mengatur tampilan dan presentasi elemen-elemen dalam halaman web. CSS bisa mengatur mulai dari font, warna tulisan dan latar belakang pada website tersebut. Dalam pengembangan web, CSS berperan penting dalam memisahkan tampilan (styling) dari struktur (HTML) dan perilaku (JavaScript).  CSS dibuat oleh Word Wide Web Consortium (W3C) pada 1996.</string>
+    <string name="maggieDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //cake
+    <string name="cakeIngredients">JavaScript adalah bahasa pemrograman yang kuat dan serbaguna yang digunakan untuk mengembangkan situs web interaktif dan aplikasi berbasis web. JavaScript muncul sebagai teknologi sisi peramban untuk menjadikan aplikasi web lebih dinamis, ini adalah salah satu elemen utama dalam pengembangan web modern. Javascript juga dapat digunakan pada server, console, program desktop, mobile, IoT, game, dan lain-lain. Javascript, seperti namanya, merupakan bahasa pemrograman scripting. Dan seperti Bahasa scripting lainnya, Javascript umumnya digunakan hanya untuk program yang tidak terlalu besar, biasanya hanya beberapa ratus baris.</string>
+    <string name="cakeDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //pancake
+    <string name="pancakeIngredients">Python adalah bahasa pemrograman tingkat tinggi yang dikenal dengan sintaksis yang mudah dibaca dan penekanannya pada produktivitas pengembang. Ini adalah salah satu bahasa pemrograman yang paling populer dan digunakan secara luas di berbagai domain pengembangan perangkat lunak. Developer menggunakan Python karena efisien dan mudah dipelajari serta dapat dijalankan di berbagai platform. Perangkat lunak Python dapat diunduh secara gratis, terintegrasi baik dengan semua tipe sistem, dan meningkatkan kecepatan pengembangan.</string>
+    <string name="pancakeDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //pizza
+    <string name="pizzaIngredients">Blender adalah perangkat lunak grafis tiga dimensi (3D) yang sumber terbuka dan digunakan untuk pembuatan konten 3D, termasuk animasi, model 3D, efek visual, simulasi, dan banyak lagi. Ini adalah salah satu perangkat lunak 3D yang paling populer dan kuat yang tersedia secara gratis untuk berbagai tujuan pengembangan 3D.</string>
+    <string name="pizzaDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //burgers
+    <string name="burgerIngredients">Unity merupakan suatu aplikasi yang digunakan untuk mengembangkan game multi platform yang didesain untuk mudah digunakan. Unity itu bagus dan penuh perpaduan dengan aplikasi yang profesional. Editor pada Unity dibuat degan user interface yang sederhana. Editor ini dibuat setelah ribuan jam yang mana telah dihabiskan untuk membuatnya menjadi nomor satu dalam urutan ranking teratas untuk editor game. Grafis pada unity dibuat dengan grafis tingkat tinggi untuk OpenGL dan directX. Unity mendukung semua format file, terutamanya format umum seperti semua format dari art applications. Unity cocok dengan versi 64-bit dan dapat beroperasi pada Mac OS x dan windows dan dapat menghasilkan game untuk Mac, Windows, Wii, iPhone, iPad dan Android.</string>
+    <string name="burgerDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    <string name="bootstrap">Bootstrap adalah kerangka kerja front-end sumber terbuka yang digunakan untuk mengembangkan desain dan tampilan situs web dan aplikasi web yang responsif, menarik, dan mudah digunakan. Dikembangkan oleh Twitter, Bootstrap adalah salah satu kerangka kerja yang paling populer dan digunakan secara luas di dunia pengembangan web. Bootstrap.css adalah framework CSS yang mengatur dan mengelola tata letak website. Kalau HTML bertugas untuk menangani konten dan struktur halaman web, CSS menangani tata letaknya. Jadi, kedua struktur ini perlu bekerja sama untuk melakukan tindakan tertentu. Bootstrap.css adalah framework CSS yang mengatur dan mengelola tata letak website. Kalau HTML bertugas untuk menangani konten dan struktur halaman web, CSS menangani tata letaknya. Jadi, kedua struktur ini perlu bekerja sama untuk melakukan tindakan tertentu.</string>
+    <string name="maya">Autodesk Maya adalah perangkat lunak desain grafis dan animasi 3D yang digunakan dalam industri film, televisi, dan permainan video untuk membuat animasi, efek visual, dan model 3D. Autodesk Maya sendiri tidak hanya untuk keperluan modeling saja tetapi juga digunakan untuk keperluan animasi, visual efek, serta alternatif render, di sisi lain dapat digunakan untuk desain produk, pembuatan game hingga pembuatan film.\n</string>
+    <string name="mayaDesc">baa</string>
+    <string name="bootstarpDosc">okkckdy</string>
+</resources>
